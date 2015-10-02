@@ -3815,7 +3815,7 @@ address p {
     background-image: url("../img/banner/home-banner1.jpg")!important;
 }
 
-.creative-banner {
+.contact-banner {
     background-image: url("../img/banner/creative-banner.jpg")!important;
 }
 
@@ -4457,4 +4457,20 @@ address p {
     background: #5a5a5a;
     color: #fff;
     border: 1px solid transparent;
+}
+
+.title-dark {
+    padding: 1rem;
+    border-radius: 1rem;
+    background: rgba(0,0,0,0.8);
+    width: 15rem;
+    text-align: center;
+}
+
+li {
+    color: #7e7e7e;
+}
+
+.contact-title {
+    width: 20rem;
 }
