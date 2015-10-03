@@ -4474,3 +4474,7 @@ li {
 .contact-title {
     width: 20rem;
 }
+
+.desk p {
+    padding-top: 4rem;
+}
