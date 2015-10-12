@@ -4015,8 +4015,40 @@ address p {
 }
 
 .banner-sb1 {
-    background-image: url("../img/services/Services%20Background.JPG")!important;
+    background-image: url('/img/services/Services%20Background.JPG');
     background-position: 0 -934px;
+    background-size: cover;
+    /*background-attachment: fixed;*/
+    background-repeat: no-repeat;
+    padding: 200px 0;
+    height: auto;
+}
+
+.banner-sb2 {
+    background-image: url('/img/banner/08.jpg');
+    background-size: cover;
+    /*background-attachment: fixed;*/
+    background-repeat: no-repeat;
+    padding: 200px 0;
+    height: auto;
+}
+
+.banner-sb3 {
+    background-image: url('/img/banner/08.jpg');
+    background-size: cover;
+    /*background-attachment: fixed;*/
+    background-repeat: no-repeat;
+    padding: 200px 0;
+    height: auto;
+}
+
+.banner-sb4 {
+    background-image: url('/img/banner/08.jpg');
+    background-size: cover;
+    /*background-attachment: fixed;*/
+    background-repeat: no-repeat;
+    padding: 200px 0;
+    height: auto;
 }
 
 .banner-03 {
@@ -4466,6 +4498,7 @@ address p {
     background: rgba(0,0,0,0.8);
     width: 15rem;
     text-align: center;
+    color: #fff;
 }
 
 li {
@@ -4503,7 +4536,7 @@ li {
 }
 
 /*Header Social Media Links*/
-.social-link {
+.header-social-link {
     margin-top: 4rem;
 }
 
