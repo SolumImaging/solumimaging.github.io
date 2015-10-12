@@ -3914,7 +3914,7 @@ address p {
 }
 
 .banner-09 {
-    background-image: url("../img/banner/09.jpg")!important;
+    background-image: url("../img/homepage/HomepageBackground.JPG")!important;
 }
 
 .banner-10 {
@@ -4015,7 +4015,8 @@ address p {
 }
 
 .banner-sb1 {
-    background-image: url("../img/about/sb-1.jpg")!important;
+    background-image: url("../img/services/Services%20Background.JPG")!important;
+    background-position: 0 -934px;
 }
 
 .banner-03 {
@@ -4482,3 +4483,31 @@ li {
 .footer-logo {
     width: 250px;
     height: auto;
+}
+
+/* Clients temp center until there are enough for a slider*/
+.clients {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.clients-client {
+    display: inline-block;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.clients img {
+    max-width: 30rem;
+    height: auto;
+}
+
+/*Header Social Media Links*/
+.social-link {
+    margin-top: 4rem;
+}
+
+/*homepage subtitle*/
+.title-tag {
+    font-weight: bold;
+}
