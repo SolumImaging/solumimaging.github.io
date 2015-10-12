@@ -107,13 +107,7 @@
 -----------------------------------------------------------------*/
 
 .page-title.background-title {
-    background-image: url(../../img/parallax/team-866663_1280.jpg);
-    background-position: 0 -934px;
-    background-size: cover;
-    /*background-attachment: fixed;*/
-    background-repeat: no-repeat;
-    padding: 200px 0;
-    height: auto;
+    
 }
 
 
