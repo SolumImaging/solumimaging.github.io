@@ -3527,22 +3527,39 @@ address p {
 }
 
 .banner-contact {
-    background-image: url('/img/contact-us/UAVCalder2.jpg');
+    background-image: url('/img/contact-us/ContactPage.JPG');
     background-size: cover;
     /*background-attachment: fixed;*/
     background-repeat: no-repeat;
     padding: 200px 0;
     height: 680px;
-    background-position-y: -640px;
+
 }
-.banner-sb3 {
+.banner-about {
     background-image: url('/img/about/drone.jpg');
     background-size: cover;
     /*background-attachment: fixed;*/
     background-repeat: no-repeat;
     padding: 200px 0;
     height: 680px;
-    background-position-y: -275px;
+    background-position-y: -235px;
+}
+.banner-pricing {
+    background-image: url('/img/services/PricingPage.jpg');
+    background-size: cover;
+    /*background-attachment: fixed;*/
+    background-repeat: no-repeat;
+    padding: 200px 0;
+    height: 680px;
+}
+.banner-faq {
+    background-image: url('/img/about/FAQPAGE.JPG');
+    background-size: cover;
+    /*background-attachment: fixed;*/
+    background-repeat: no-repeat;
+    padding: 200px 0;
+    height: 680px;
+    background-position-y: -336px;
 }
 .banner-equipment {
     background-image: url('/img/about/equipment/Equipment.JPG');
@@ -3926,7 +3943,7 @@ li {
     margin-right: 2rem;
 }
 .clients img {
-    max-width: 30rem;
+    max-width: 80%;
     height: auto;
 }
 
@@ -3947,6 +3964,12 @@ li {
 .home-cta {
     font-size: 2rem;
 }
+.home-cta-contact {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+}
 .home-bottom-content {
     padding-top: 0;
 }
@@ -3959,9 +3982,20 @@ li {
 .contact-phone, .contact-email {
     margin-right: 10px;
 }
-
 .contact-social {
     display: inline-block;
     margin-right: 50px;
     margin-top: 20px;
+}
+.faq-description {
+    font-size: 2rem;
+}
+.pricing-contact {
+    margin-top: 50px;
+}
+.footer-contact a {
+    color: #a2a2a2;
+}
+.footer-contact a:hover {
+    color: #d6b161;
 }

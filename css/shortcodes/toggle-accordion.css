@@ -5,7 +5,7 @@
 
 .accordion > dt{
     margin-bottom: 10px;
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 0.2em;
@@ -74,7 +74,7 @@
 .accordion > dd{
     margin-bottom: 10px;
     padding: 10px 20px 20px;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.8;
     color: #777;
 }
