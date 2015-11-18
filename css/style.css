@@ -4007,6 +4007,9 @@ li {
 .pricing-title-container {
     margin-bottom: 60px;
 }
+.price-table-row h2 {
+    margin-bottom: 0;
+}
 .price-table-row .btn {
     margin-right: 0;
 }
@@ -4014,6 +4017,10 @@ li {
     margin-top: 100px;
 }
 .services-list {
-    width: 40%;
+    width: 50%;
     margin: 20px auto 0 auto;
+}
+.services-list li {
+    font-size: 2rem;
+    text-align: left;
 }
