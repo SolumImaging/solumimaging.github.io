@@ -3998,3 +3998,22 @@ li {
 .footer-contact a:hover {
     color: #d6b161;
 }
+.light-gray {
+    color: #a2a2a2;
+}
+.pricing-title {
+    font-size: 4rem;
+}
+.pricing-title-container {
+    margin-bottom: 60px;
+}
+.price-table-row .btn {
+    margin-right: 0;
+}
+.commercial-pricing {
+    margin-top: 100px;
+}
+.services-list {
+    width: 40%;
+    margin: 20px auto 0 auto;
+}
