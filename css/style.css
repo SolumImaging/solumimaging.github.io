@@ -2910,7 +2910,7 @@ header li.nav-icon .cart-table-list a {
 }
 .form-control {
     box-shadow: none;
-    border: 1px solid #e5e5e5;
+    border: 1px solid #7e7e7e;
     border-radius: 3px;
 }
 .form-control:focus {
@@ -4023,4 +4023,10 @@ li {
 .services-list li {
     font-size: 2rem;
     text-align: left;
+}
+.contact-us h4 {
+    font-size: 2.4rem;
+}
+.contact-us p {
+    font-size: 1.8rem;
 }
