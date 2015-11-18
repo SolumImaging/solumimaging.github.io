@@ -137,7 +137,7 @@ Table of contents
 body {
     font-family: 'Source Sans Pro', sans-serif;
     line-height: 1.5;
-    color: #323232;
+    color: #191919;
     font-size: 15px;
     font-weight: 400;
     text-rendering: optimizeLegibility;
@@ -194,7 +194,7 @@ iframe {
 p {
     margin: 0 0 30px;
     line-height: 30px;
-    color: #7e7e7e;
+    color: #191919;
 }
 p,
 li {
@@ -1528,7 +1528,7 @@ header.nav-block-left {
     /*font-family: 'Abel', sans-serif;*/
     font-weight: normal;
     letter-spacing: 1px;
-    color: #7e7e7e;
+    color: #191919;
 }
 .portfolio-with-title.portfolio-masonry .portfolio-title {
     padding: 15px;
@@ -2927,7 +2927,7 @@ header li.nav-icon .cart-table-list a {
 .contact-comments label {
     font-weight: normal;
     text-transform: uppercase;
-    color: #7e7e7e;
+    color: #191919;
 }
 address p {
     margin-bottom: 0px;
@@ -3912,7 +3912,7 @@ address p {
     color: #fff;
 }
 li {
-    color: #7e7e7e;
+    color: #191919;
 }
 .contact-title {
     width: 20rem;
