@@ -95,6 +95,22 @@
     top: 45%;
 }
 
+.team-member:focus .team-hover,
+.team-member:focus .team-hover .desk,
+.team-member:focus .team-hover .s-link {
+    opacity: 1;
+}
+
+
+.team-member:focus .team-hover .s-link {
+    bottom: 10%;
+}
+
+.team-member:focus .team-hover .desk {
+    top: 45%;
+}
+
+
 .team-hover .desk {
     position: absolute;
     top: 0%;
