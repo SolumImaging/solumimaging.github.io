@@ -4030,3 +4030,17 @@ li {
 .contact-us p {
     font-size: 1.8rem;
 }
+.comment-confirm {
+    display: none;
+    margin-top: 60px;
+    text-align: center;
+    background: #222222;
+    border-radius: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.comment-confirm h3, .comment-confirm p {
+    margin-bottom: 0;
+    color: #fff;
+}
