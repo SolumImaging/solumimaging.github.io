@@ -4038,6 +4038,7 @@ li {
     border-radius: 5px;
     padding-top: 20px;
     padding-bottom: 20px;
+    margin-bottom: 60px;
 }
 
 .comment-confirm h3, .comment-confirm p {
