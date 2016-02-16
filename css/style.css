@@ -4053,3 +4053,7 @@ li {
 .form-group input {
     z-index: 3;
 }
+
+.quote-button {
+    font-size: 2.5rem;
+}
